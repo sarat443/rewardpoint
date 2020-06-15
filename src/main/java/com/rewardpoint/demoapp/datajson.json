@@ -1,0 +1,31 @@
+[
+	{
+		"customerId": "cust-1000",
+		"transactionId": "ABC_1234",
+		"productCode": "laptop",
+		"amount": "60",
+		"day":"06-11-2020"
+    },
+	{
+		"customerId": "cust-1000",
+		"transactionId": "ABC_1234",
+		"productCode": "tv",
+		"amount": "60",
+		"day":"06-11-2020"
+	},
+	
+    {
+		"customerId": "cust-3000",
+		"transactionId": "ABC_1235",
+		"productCode": "tv",
+		"amount": "60",
+		"day":"05-25-2020"
+	},
+	 {
+		"customerId": "cust-3000",
+		"transactionId": "ABC_1235",
+		"productCode": "tv",
+		"amount": "100",
+		"day":"05-25-2020"
+	}
+]
